@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ajieh
+Build-Jdk: 14.0.2
+Implementation-Title: spring-boot-with-kafka
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo.kafka
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-with-kafka
+Created-By: Maven Integration for Eclipse
+
